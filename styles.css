@@ -9,7 +9,7 @@
 
 *{
     font-family: "Rubik", sans-serif;
-        box-sizing: border-box;
+    box-sizing: border-box;
 }
 
 
@@ -19,6 +19,7 @@ section{
 
 /* NAV */
 nav{
+    z-index: 1000;
     background-color: #EDEDED;
     width: 100%;
     display: flex;
@@ -48,6 +49,15 @@ nav img{
     text-decoration: none;
     font-size: 1.2rem;
     font-weight: 500;
+}
+
+#navBarLinks a:hover{
+    color: var(--highlight-color);
+    transition: 0.3s;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 /* TITLES */
@@ -201,7 +211,7 @@ nav img{
 }
 
 /* BUTTON */
-.defaulButton{
+.defaultButton{
     display: flex;
     align-items: center;
     width: fit-content;
@@ -212,9 +222,14 @@ nav img{
     gap: 10px;
 }
 
-.defaulButton a{
+.defaultButton a{
     color: var(--secondary-color);
     text-decoration: none;
+}
+
+.defaultButton:hover{
+    transform: scale(1.03);
+    transition: 0.3s;
 }
 
 .downloadButtonLight{
@@ -267,7 +282,7 @@ nav img{
 
 /* RESPONSIVO */
 @media (max-width: 1200px){
-    #aboutMeTextsFlexItem .defaulButton{
+    #aboutMeTextsFlexItem .defaultButton{
         margin-bottom: 24px;
     }
 }
@@ -332,7 +347,7 @@ nav img{
         align-items: center;
     }
 
-    .defaulButton{
+    .defaultButton{
         margin-bottom: 20px;
     }
 
