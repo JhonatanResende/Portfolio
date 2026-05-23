@@ -1,4 +1,4 @@
-# 🌐 Site Pessoal - Jhonatan Resende
+# 🌐 Portfólio - Jhonatan Resende
 
 Projeto de site pessoal desenvolvido com foco em apresentar minhas habilidades, projetos e formas de contato como desenvolvedor.
 
@@ -42,7 +42,7 @@ O site foi desenvolvido com foco em diferentes tamanhos de tela, garantindo boa 
 
 ## 🔗 Acesse o projeto
 
-👉 https://jhonatanresende.github.io/Projeto-Site-Pessoal/
+👉 https://jhonatanresende.github.io/Portfolio/
 
 ---
 
