@@ -1,23 +1,23 @@
 # 🌐 Portfólio - Jhonatan Resende
 
-Projeto de site pessoal desenvolvido com foco em apresentar minhas habilidades, projetos e formas de contato como desenvolvedor.
+Site pessoal desenvolvido para apresentar minhas habilidades, projetos e formas de contato como desenvolvedor.
+
+![Preview do site](assets/preview.png)
 
 ---
 
 ## 🚀 Sobre o projeto
 
-Este é um site institucional/portfólio com layout moderno e responsivo, criado para reforçar minha presença online como desenvolvedor Back-end.
+Portfólio institucional com layout moderno e responsivo, criado para reforçar minha presença online como desenvolvedor Back-end.
 
-O objetivo do projeto é aplicar conceitos fundamentais de desenvolvimento web, como estruturação semântica, responsividade e boas práticas de CSS.
+O objetivo é aplicar conceitos fundamentais de desenvolvimento web, como estruturação semântica, responsividade e boas práticas de CSS.
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
 
-* HTML5
-* CSS3
-* Flexbox
-* Responsividade com Media Queries
+- HTML5
+- CSS3 (Flexbox, Media Queries)
 
 ---
 
@@ -25,18 +25,33 @@ O objetivo do projeto é aplicar conceitos fundamentais de desenvolvimento web, 
 
 O site foi desenvolvido com foco em diferentes tamanhos de tela, garantindo boa experiência em:
 
-* 📱 Smartphones
-* 💻 Desktops
-* 📟 Tablets
+- 📱 Smartphones
+- 💻 Desktops
+- 📟 Tablets
 
 ---
 
 ## 🎯 Funcionalidades
 
-* Navegação entre seções (Início, Sobre, Skills, Contato)
-* Layout responsivo
-* Links para redes sociais
-* Download de currículo
+- Navegação entre seções (Início, Sobre, Skills, Contato)
+- Layout responsivo
+- Links para redes sociais
+- Download de currículo
+
+---
+
+## ▶️ Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/JhonatanResende/Portfolio.git
+
+# Acesse a pasta do projeto
+cd Portfolio
+
+# Abra o index.html no navegador
+# ou use a extensão Live Server no VS Code
+```
 
 ---
 
@@ -48,8 +63,8 @@ O site foi desenvolvido com foco em diferentes tamanhos de tela, garantindo boa 
 
 ## 📬 Contato
 
-* LinkedIn: https://www.linkedin.com/in/jhonatanresende/
-* GitHub: https://github.com/jhonatanresende
+- LinkedIn: https://www.linkedin.com/in/jhonatanresende/
+- GitHub: https://github.com/jhonatanresende
 
 ---
 
@@ -63,10 +78,10 @@ O site foi desenvolvido com foco em diferentes tamanhos de tela, garantindo boa 
 
 Durante o desenvolvimento deste projeto, pratiquei:
 
-* Estruturação de páginas com HTML semântico
-* Estilização com CSS moderno
-* Organização de layout com Flexbox
-* Criação de responsividade para múltiplos dispositivos
+- Estruturação de páginas com HTML semântico
+- Estilização com CSS moderno
+- Organização de layout com Flexbox
+- Criação de responsividade para múltiplos dispositivos
 
 ---
 
